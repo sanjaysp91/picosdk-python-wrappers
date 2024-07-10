@@ -10,3 +10,4 @@
 # All platforms
 
 **/*.h
+*.mat
